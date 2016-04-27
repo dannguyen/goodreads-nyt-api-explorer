@@ -1,3 +1,7 @@
+# Todo
+
+Changing ISBN numbers to goodreads IDs
+
 
 # NYTimes API
 
