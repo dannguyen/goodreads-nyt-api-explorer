@@ -1,0 +1,824 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "last_modified": "2015-01-08T14:17:19-05:00",
+  "results": {
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "bestsellers_date": "2014-12-20",
+    "published_date": "2015-01-04",
+    "next_published_date": "2015-01-11",
+    "previous_published_date": "2014-12-28",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 184,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0812974492",
+        "primary_isbn13": "9780812974492",
+        "publisher": "Random House",
+        "description": "An Olympic runner’s story of survival as a prisoner of the Japanese in World War II.",
+        "price": 0,
+        "title": "UNBROKEN",
+        "author": "Laura Hillenbrand",
+        "contributor": "by Laura Hillenbrand",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2010/11/15/books/15book.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1400064163",
+            "isbn13": "9781400064168"
+          },
+          {
+            "isbn10": "0679603751",
+            "isbn13": "9780679603757"
+          },
+          {
+            "isbn10": "0375435018",
+            "isbn13": "9780375435010"
+          },
+          {
+            "isbn10": "0739319698",
+            "isbn13": "9780739319697"
+          },
+          {
+            "isbn10": "0007378033",
+            "isbn13": "9780007378036"
+          },
+          {
+            "isbn10": "0812974492",
+            "isbn13": "9780812974492"
+          },
+          {
+            "isbn10": "0606355987",
+            "isbn13": "9780606355988"
+          },
+          {
+            "isbn10": "081298711X",
+            "isbn13": "9780812987119"
+          },
+          {
+            "isbn10": "0553397117",
+            "isbn13": "9780553397116"
+          },
+          {
+            "isbn10": "1101912626",
+            "isbn13": "9781101912621"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "080509668X",
+        "primary_isbn13": "9780805096682",
+        "publisher": "Holt",
+        "description": "The host of “The O’Reilly Factor” recounts the strange death of Gen. George S. Patton in December 1945.",
+        "price": 0,
+        "title": "KILLING PATTON",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "amazon_product_url": "http://www.amazon.com/Killing-Patton-Strange-Audacious-General/dp/080509668X?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "080509668X",
+            "isbn13": "9780805096682"
+          },
+          {
+            "isbn10": "1427244219",
+            "isbn13": "9781427244215"
+          },
+          {
+            "isbn10": "1410473651",
+            "isbn13": "9781410473653"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 3,
+        "weeks_on_list": 92,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0307476073",
+        "primary_isbn13": "9780307476074",
+        "publisher": "Knopf",
+        "description": "A woman’s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+        "price": 0,
+        "title": "WILD",
+        "author": "Cheryl Strayed",
+        "contributor": "by Cheryl Strayed",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307476074.jpg",
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0307592731",
+            "isbn13": "9780307592736"
+          },
+          {
+            "isbn10": "0307957659",
+            "isbn13": "9780307957658"
+          },
+          {
+            "isbn10": "0307476073",
+            "isbn13": "9780307476074"
+          },
+          {
+            "isbn10": "1594136742",
+            "isbn13": "9781594136740"
+          },
+          {
+            "isbn10": "0307970299",
+            "isbn13": "9780307970299"
+          },
+          {
+            "isbn10": "1101873442",
+            "isbn13": "9781101873441"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0553447785",
+        "primary_isbn13": "9780553447781",
+        "publisher": "Crown",
+        "description": "The 43rd president’s portrait of his father, George H. W. Bush, the 41st.",
+        "price": 0,
+        "title": "41",
+        "author": "George W Bush",
+        "contributor": "by George W. Bush",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780553447798.jpg",
+        "amazon_product_url": "http://www.amazon.com/41-A-Portrait-My-Father/dp/0553447785?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/11/12/books/41-george-w-bushs-portrait-of-george-h-w-bush.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/12/28/books/review/george-w-bushs-41-a-portrait-of-my-father.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0553447785",
+            "isbn13": "9780553447781"
+          },
+          {
+            "isbn10": "0804194718",
+            "isbn13": "9780804194716"
+          },
+          {
+            "isbn10": "1101913142",
+            "isbn13": "9781101913147"
+          },
+          {
+            "isbn10": "0553448277",
+            "isbn13": "9780553448276"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 7,
+        "weeks_on_list": 13,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0544272994",
+        "primary_isbn13": "9780544272996",
+        "publisher": "Houghton Mifflin Harcourt",
+        "description": "Scientific (but often funny) answers to hypothetical questions, based in part on the author’s website, xkcd.com.",
+        "price": 0,
+        "title": "WHAT IF?",
+        "author": "Randall Munroe",
+        "contributor": "by Randall Munroe",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780544272644.jpg",
+        "amazon_product_url": "http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0544272994",
+            "isbn13": "9780544272996"
+          },
+          {
+            "isbn10": "0544456866",
+            "isbn13": "9780544456860"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062268341",
+        "primary_isbn13": "9780062268341",
+        "publisher": "Dey Street/Morrow",
+        "description": "A humorous miscellany from the comedian and actress, the “S.N.L.” alumna and star of “Parks and Recreation.”",
+        "price": 0,
+        "title": "YES PLEASE",
+        "author": "Amy Poehler",
+        "contributor": "by Amy Poehler",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpg",
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062268341",
+            "isbn13": "9780062268341"
+          },
+          {
+            "isbn10": "0062268376",
+            "isbn13": "9780062268372"
+          },
+          {
+            "isbn10": "0062350889",
+            "isbn13": "9780062350886"
+          },
+          {
+            "isbn10": "006226835X",
+            "isbn13": "9780062268358"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 9,
+        "weeks_on_list": 44,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062376330",
+        "primary_isbn13": "9780062376336",
+        "publisher": "Morrow/HarperCollins",
+        "description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+        "price": 0,
+        "title": "AMERICAN SNIPER",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062082353",
+            "isbn13": "9780062082350"
+          },
+          {
+            "isbn10": "006208237X",
+            "isbn13": "9780062082374"
+          },
+          {
+            "isbn10": "0062209493",
+            "isbn13": "9780062209498"
+          },
+          {
+            "isbn10": "0062107062",
+            "isbn13": "9780062107060"
+          },
+          {
+            "isbn10": "0062238868",
+            "isbn13": "9780062238863"
+          },
+          {
+            "isbn10": "0062290797",
+            "isbn13": "9780062290793"
+          },
+          {
+            "isbn10": "0062376578",
+            "isbn13": "9780062376572"
+          },
+          {
+            "isbn10": "0062376330",
+            "isbn13": "9780062376336"
+          },
+          {
+            "isbn10": "0062297872",
+            "isbn13": "9780062297877"
+          },
+          {
+            "isbn10": "0062082361",
+            "isbn13": "9780062082367"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "weeks_on_list": 31,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0143125478",
+        "primary_isbn13": "9780143125471",
+        "publisher": "Viking",
+        "description": "The University of Washington’s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "price": 0,
+        "title": "THE BOYS IN THE BOAT",
+        "author": "Daniel James Brown",
+        "contributor": "by Daniel James Brown",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "067002581X",
+            "isbn13": "9780670025817"
+          },
+          {
+            "isbn10": "0143125478",
+            "isbn13": "9780143125471"
+          },
+          {
+            "isbn10": "159413779X",
+            "isbn13": "9781594137792"
+          },
+          {
+            "isbn10": "1611761697",
+            "isbn13": "9781611761696"
+          },
+          {
+            "isbn10": "1410459543",
+            "isbn13": "9781410459541"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250038820",
+        "primary_isbn13": "9781250038821",
+        "publisher": "St. Martin's",
+        "description": "Four hundred color photos of New Yorkers, with brief commentary by Stanton. ",
+        "price": 0,
+        "title": "HUMANS OF NEW YORK",
+        "author": "Brandon Stanton",
+        "contributor": "by Brandon Stanton",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250038821.jpg",
+        "amazon_product_url": "http://www.amazon.com/Humans-New-York-Brandon-Stanton/dp/1250038820?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250038820",
+            "isbn13": "9781250038821"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "weeks_on_list": 11,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0805095152",
+        "primary_isbn13": "9780805095159",
+        "publisher": "Metropolitan/Holt",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "price": 0,
+        "title": "BEING MORTAL",
+        "author": "Atul Gawande",
+        "contributor": "by Atul Gawande",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805095159.jpg",
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0805095152",
+            "isbn13": "9780805095159"
+          },
+          {
+            "isbn10": "1427244235",
+            "isbn13": "9781427244239"
+          },
+          {
+            "isbn10": "1410478122",
+            "isbn13": "9781410478122"
+          },
+          {
+            "isbn10": "1514732998",
+            "isbn13": "9781514732991"
+          },
+          {
+            "isbn10": "1250081246",
+            "isbn13": "9781250081247"
+          }
+        ]
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 12,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1627792287",
+        "primary_isbn13": "9781627792288",
+        "publisher": "Holt",
+        "description": "One year in the (social) life of the TV producer and host of “Watch What Happens Live.”",
+        "price": 0,
+        "title": "THE ANDY COHEN DIARIES",
+        "author": "Andy Cohen",
+        "contributor": "by Andy Cohen",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781627792295.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Andy-Cohen-Diaries-Shallow-ebook/dp/B00K9NWRFE?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1627792287",
+            "isbn13": "9781627792288"
+          },
+          {
+            "isbn10": "1627792295",
+            "isbn13": "9781627792295"
+          },
+          {
+            "isbn10": "1427259313",
+            "isbn13": "9781427259318"
+          },
+          {
+            "isbn10": "1250078504",
+            "isbn13": "9781250078506"
+          }
+        ]
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 0,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1476764026",
+        "primary_isbn13": "9781476764023",
+        "publisher": "Touchstone/Simon & Schuster",
+        "description": "The making of the movie “The Princess Bride,” 25 years ago.",
+        "price": 0,
+        "title": "AS YOU WISH",
+        "author": "Cary Elwes with Joe Layden",
+        "contributor": "by Cary Elwes with Joe Layden",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476764030.jpg",
+        "amazon_product_url": "http://www.amazon.com/As-You-Wish-Inconceivable-Princess/dp/1476764026?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/12/07/books/review/as-you-wish-about-the-making-of-the-princess.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476764026",
+            "isbn13": "9781476764023"
+          },
+          {
+            "isbn10": "1442383453",
+            "isbn13": "9781442383456"
+          }
+        ]
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 11,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062314963",
+        "primary_isbn13": "9780062314963",
+        "publisher": "Morrow/HarperCollins",
+        "description": "The veteran sportscaster, the voice of “Sunday Night Football,” recalls players and games he has observed.",
+        "price": 0,
+        "title": "YOU CAN'T MAKE THIS UP",
+        "author": "Al Michaels with L Jon Wertheim",
+        "contributor": "by Al Michaels with L. Jon Wertheim",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062314987.jpg",
+        "amazon_product_url": "http://www.amazon.com/You-Cant-Make-This-Television/dp/0062314963?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062314963",
+            "isbn13": "9780062314963"
+          }
+        ]
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 14,
+        "weeks_on_list": 12,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "081299499X",
+        "primary_isbn13": "9780812994995",
+        "publisher": "Random House",
+        "description": "A collection of revealing and often humorous personal essays from the creator and star of “Girls.”",
+        "price": 0,
+        "title": "NOT THAT KIND OF GIRL",
+        "author": "Lena Dunham",
+        "contributor": "by Lena Dunham",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780812995008.jpg",
+        "amazon_product_url": "http://www.amazon.com/Not-That-Kind-Girl-Learned/dp/081299499X?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/09/24/books/lena-dunhams-memoir-ish-not-that-kind-of-girl.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/10/12/books/review/lena-dunham-memoir-not-that-kind-of-girl-review.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "081299499X",
+            "isbn13": "9780812994995"
+          },
+          {
+            "isbn10": "080412731X",
+            "isbn13": "9780804127318"
+          },
+          {
+            "isbn10": "0812985176",
+            "isbn13": "9780812985177"
+          }
+        ]
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 15,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "147670869X",
+        "primary_isbn13": "9781476708690",
+        "publisher": "Simon & Schuster",
+        "description": "Studies of the people who created computers and the Internet, beginning in the 1840s.",
+        "price": 0,
+        "title": "THE INNOVATORS",
+        "author": "Walter Isaacson",
+        "contributor": "by Walter Isaacson",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476708713.jpg",
+        "amazon_product_url": "http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution-ebook/dp/B00JGAS65Q?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "http://www.nytimes.com/2014/10/09/arts/walter-isaacsons-the-innovators-studies-computer-wizards.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/10/05/books/review/the-innovators-by-walter-isaacson.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "147670869X",
+            "isbn13": "9781476708690"
+          },
+          {
+            "isbn10": "1476708711",
+            "isbn13": "9781476708713"
+          },
+          {
+            "isbn10": "1442376228",
+            "isbn13": "9781442376229"
+          },
+          {
+            "isbn10": "1476708703",
+            "isbn13": "9781476708706"
+          }
+        ]
+      },
+      {
+        "rank": 16,
+        "rank_last_week": 0,
+        "weeks_on_list": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1476783667",
+        "primary_isbn13": "9781476783666",
+        "publisher": "Jeter Publishing/Gallery Books",
+        "description": "The Yankee shortstop and team captain looks back over his career, with photographs from his recently concluded final season, as well as older ones.",
+        "price": 0,
+        "title": "JETER UNFILTERED",
+        "author": "Derek Jeter with Anthony Bozza",
+        "contributor": "by Derek Jeter with Anthony Bozza",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476783666.jpg",
+        "amazon_product_url": "http://www.amazon.com/Jeter-Unfiltered-Derek/dp/1476783667?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476783667",
+            "isbn13": "9781476783666"
+          }
+        ]
+      },
+      {
+        "rank": 17,
+        "rank_last_week": 0,
+        "weeks_on_list": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038534824X",
+        "primary_isbn13": "9780385348249",
+        "publisher": "Crown Archetype",
+        "description": "A memoir by the comedian, actor and writer, a former member of the Monty Python troupe.",
+        "price": 0,
+        "title": "SO ANYWAY . . .",
+        "author": "John Cleese",
+        "contributor": "by John Cleese",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385348256.jpg",
+        "amazon_product_url": "http://www.amazon.com/So-Anyway-John-Cleese-ebook/dp/B00KAFVNY2?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/12/07/books/review/so-anyway-a-memoir-by-john-cleese.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "038534824X",
+            "isbn13": "9780385348249"
+          }
+        ]
+      },
+      {
+        "rank": 18,
+        "rank_last_week": 0,
+        "weeks_on_list": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0307886271",
+        "primary_isbn13": "9780307886279",
+        "publisher": "Three Rivers",
+        "description": "The comedian and actress offers essays about her life.",
+        "price": 0,
+        "title": "IS EVERYONE HANGING OUT WITHOUT ME?",
+        "author": "Mindy Kaling",
+        "contributor": "by Mindy Kaling",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307886286.jpg",
+        "amazon_product_url": "http://www.amazon.com/Everyone-Hanging-Without-Other-Concerns-ebook/dp/B004JN1D3M?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0307886263",
+            "isbn13": "9780307886262"
+          },
+          {
+            "isbn10": "030788628X",
+            "isbn13": "9780307886286"
+          },
+          {
+            "isbn10": "0307886271",
+            "isbn13": "9780307886279"
+          },
+          {
+            "isbn10": "0307939804",
+            "isbn13": "9780307939807"
+          }
+        ]
+      },
+      {
+        "rank": 19,
+        "rank_last_week": 0,
+        "weeks_on_list": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385535376",
+        "primary_isbn13": "9780385535373",
+        "publisher": "Doubleday",
+        "description": "An 1879 polar voyage gone terribly wrong.",
+        "price": 0,
+        "title": "IN THE KINGDOM OF ICE",
+        "author": "Hampton Sides",
+        "contributor": "by Hampton Sides",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385535380.jpg",
+        "amazon_product_url": "http://www.amazon.com/In-Kingdom-Ice-Terrible-Jeannette-ebook/dp/B00IBZ3Z8U?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/08/17/books/review/in-the-kingdom-of-ice-by-hampton-sides.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385535376",
+            "isbn13": "9780385535373"
+          },
+          {
+            "isbn10": "0804194602",
+            "isbn13": "9780804194600"
+          },
+          {
+            "isbn10": "0307966542",
+            "isbn13": "9780307966544"
+          },
+          {
+            "isbn10": "0307946916",
+            "isbn13": "9780307946911"
+          }
+        ]
+      },
+      {
+        "rank": 20,
+        "rank_last_week": 0,
+        "weeks_on_list": 0,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1594486298",
+        "primary_isbn13": "9781594486296",
+        "publisher": "Riverhead",
+        "description": "Essays about forgiveness, transformation and grace.",
+        "price": 0,
+        "title": "SMALL VICTORIES",
+        "author": "Anne Lamott",
+        "contributor": "by Anne Lamott",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698189744.jpg",
+        "amazon_product_url": "http://www.amazon.com/Small-Victories-Spotting-Improbable-Moments-ebook/dp/B00KWG9NBO?tag=thenewyorktim-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1594486298",
+            "isbn13": "9781594486296"
+          },
+          {
+            "isbn10": "1611763703",
+            "isbn13": "9781611763706"
+          }
+        ]
+      }
+    ],
+    "corrections": []
+  }
+}

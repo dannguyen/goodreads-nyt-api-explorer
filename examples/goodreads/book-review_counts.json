@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 53732,
+      "isbn": "0441172717",
+      "isbn13": "9780441172719",
+      "ratings_count": 7918,
+      "reviews_count": 13045,
+      "text_reviews_count": 701,
+      "work_ratings_count": 455268,
+      "work_reviews_count": 666865,
+      "work_text_reviews_count": 10865,
+      "average_rating": "4.17"
+    },
+    {
+      "id": 99944,
+      "isbn": "0140449183",
+      "isbn13": "9780140449181",
+      "ratings_count": 29110,
+      "reviews_count": 60883,
+      "text_reviews_count": 504,
+      "work_ratings_count": 37299,
+      "work_reviews_count": 79254,
+      "work_text_reviews_count": 1188,
+      "average_rating": "4.08"
+    }
+  ]
+}
