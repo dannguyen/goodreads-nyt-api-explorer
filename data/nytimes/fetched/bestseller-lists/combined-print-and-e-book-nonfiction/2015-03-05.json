@@ -1,0 +1,827 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "last_modified": "2015-03-06T13:40:33-05:00",
+  "num_results": 20,
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "previous_published_date": "2015-03-01",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "published_date": "2015-03-08",
+    "next_published_date": "2015-03-15",
+    "corrections": [],
+    "books": [
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Morrow/HarperCollins",
+        "title": "AMERICAN SNIPER",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062082374.jpg",
+        "rank": 1,
+        "weeks_on_list": 53,
+        "primary_isbn13": "9780062376336",
+        "primary_isbn10": "0062376330",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Chris Kyle with Scott McEwen and Jim DeFelice",
+        "description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+        "isbns": [
+          {
+            "isbn13": "9780062082350",
+            "isbn10": "0062082353"
+          },
+          {
+            "isbn13": "9780062082374",
+            "isbn10": "006208237X"
+          },
+          {
+            "isbn13": "9780062209498",
+            "isbn10": "0062209493"
+          },
+          {
+            "isbn13": "9780062107060",
+            "isbn10": "0062107062"
+          },
+          {
+            "isbn13": "9780062238863",
+            "isbn10": "0062238868"
+          },
+          {
+            "isbn13": "9780062290793",
+            "isbn10": "0062290797"
+          },
+          {
+            "isbn13": "9780062376572",
+            "isbn10": "0062376578"
+          },
+          {
+            "isbn13": "9780062376336",
+            "isbn10": "0062376330"
+          },
+          {
+            "isbn13": "9780062297877",
+            "isbn10": "0062297872"
+          },
+          {
+            "isbn13": "9780062082367",
+            "isbn10": "0062082361"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=thenewyorktim-20",
+        "contributor": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+        "rank_last_week": 1
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "publisher": "Random House",
+        "title": "UNBROKEN",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "rank": 2,
+        "weeks_on_list": 193,
+        "primary_isbn13": "9780679603757",
+        "primary_isbn10": "0679603751",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2010/11/15/books/15book.html",
+        "author": "Laura Hillenbrand",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+        "isbns": [
+          {
+            "isbn13": "9781400064168",
+            "isbn10": "1400064163"
+          },
+          {
+            "isbn13": "9780679603757",
+            "isbn10": "0679603751"
+          },
+          {
+            "isbn13": "9780375435010",
+            "isbn10": "0375435018"
+          },
+          {
+            "isbn13": "9780739319697",
+            "isbn10": "0739319698"
+          },
+          {
+            "isbn13": "9780007378036",
+            "isbn10": "0007378033"
+          },
+          {
+            "isbn13": "9780812974492",
+            "isbn10": "0812974492"
+          },
+          {
+            "isbn13": "9780606355988",
+            "isbn10": "0606355987"
+          },
+          {
+            "isbn13": "9780812987119",
+            "isbn10": "081298711X"
+          },
+          {
+            "isbn13": "9780553397116",
+            "isbn10": "0553397117"
+          },
+          {
+            "isbn13": "9781101912621",
+            "isbn10": "1101912626"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "rank_last_week": 2
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "publisher": "Knopf",
+        "title": "WILD",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307476074.jpg",
+        "rank": 3,
+        "weeks_on_list": 101,
+        "primary_isbn13": "9780307957658",
+        "primary_isbn10": "0307957659",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "author": "Cheryl Strayed",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+        "isbns": [
+          {
+            "isbn13": "9780307592736",
+            "isbn10": "0307592731"
+          },
+          {
+            "isbn13": "9780307957658",
+            "isbn10": "0307957659"
+          },
+          {
+            "isbn13": "9780307476074",
+            "isbn10": "0307476073"
+          },
+          {
+            "isbn13": "9781594136740",
+            "isbn10": "1594136742"
+          },
+          {
+            "isbn13": "9780307970299",
+            "isbn10": "0307970299"
+          },
+          {
+            "isbn13": "9781101873441",
+            "isbn10": "1101873442"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "rank_last_week": 4
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Viking",
+        "title": "THE BOYS IN THE BOAT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "rank": 4,
+        "weeks_on_list": 40,
+        "primary_isbn13": "9781101622742",
+        "primary_isbn10": "None",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Daniel James Brown",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "rank_last_week": 3
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "publisher": "Metropolitan/Holt",
+        "title": "BEING MORTAL",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805095159.jpg",
+        "rank": 5,
+        "weeks_on_list": 20,
+        "primary_isbn13": "9780805095159",
+        "primary_isbn10": "0805095152",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "author": "Atul Gawande",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "contributor": "by Atul Gawande",
+        "rank_last_week": 5
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Holt",
+        "title": "KILLING PATTON",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805096699.jpg",
+        "rank": 6,
+        "weeks_on_list": 22,
+        "primary_isbn13": "9780805096682",
+        "primary_isbn10": "080509668X",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Bill O'Reilly and Martin Dugard",
+        "description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+        "isbns": [
+          {
+            "isbn13": "9780805096682",
+            "isbn10": "080509668X"
+          },
+          {
+            "isbn13": "9781427244215",
+            "isbn10": "1427244219"
+          },
+          {
+            "isbn13": "9781410473653",
+            "isbn10": "1410473651"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Killing-Patton-Strange-Audacious-General/dp/080509668X?tag=thenewyorktim-20",
+        "contributor": "by Bill O'Reilly and Martin Dugard",
+        "rank_last_week": 6
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2006/11/05/books/review/Baker.t.html",
+        "publisher": "Broadway",
+        "title": "THUNDERSTRUCK",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307351920.jpg",
+        "rank": 7,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9780307351920",
+        "primary_isbn10": "0307351920",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2006/11/13/books/13masl.html",
+        "author": "Erik Larson",
+        "description": "Intertwined stories of early-20th-century murder and scientific intrigue, by the author of \"The Devil in the White City\"; first published in 2006.",
+        "isbns": [
+          {
+            "isbn13": "9781400080670",
+            "isbn10": "1400080673"
+          },
+          {
+            "isbn13": "9780307351920",
+            "isbn10": "0307351920"
+          },
+          {
+            "isbn13": "9781400080663",
+            "isbn10": "1400080665"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Thunderstruck-Times-bestselling-author-Larson-ebook/dp/B000JMKR4S?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/02/15/books/review/david-axelrods-believer.html",
+        "publisher": "Penguin Press",
+        "title": "BELIEVER",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698145665.jpg",
+        "rank": 8,
+        "weeks_on_list": 2,
+        "primary_isbn13": "9781594205873",
+        "primary_isbn10": "1594205876",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/02/09/books/david-axelrods-believer-my-forty-years-in-politics.html",
+        "author": "David Axelrod",
+        "description": "A memoir by the political consultant who became Barack Obama\u2019s campaign strategist and White House adviser.",
+        "isbns": [
+          {
+            "isbn13": "9781594205873",
+            "isbn10": "1594205876"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Believer-My-Forty-Years-Politics-ebook/dp/B00LFZ8PHO?tag=thenewyorktim-20",
+        "contributor": "by David Axelrod",
+        "rank_last_week": 8
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/12/07/books/review/yes-please-by-amy-poehler.html",
+        "publisher": "Dey Street/Morrow",
+        "title": "YES PLEASE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062268341.jpg",
+        "rank": 9,
+        "weeks_on_list": 17,
+        "primary_isbn13": "9780062268341",
+        "primary_isbn10": "0062268341",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2014/11/05/books/book-review-amy-poehlers-yes-please.html",
+        "author": "Amy Poehler",
+        "description": "A humorous miscellany from the comedian and actress.",
+        "isbns": [
+          {
+            "isbn13": "9780062268341",
+            "isbn10": "0062268341"
+          },
+          {
+            "isbn13": "9780062268372",
+            "isbn10": "0062268376"
+          },
+          {
+            "isbn13": "9780062350886",
+            "isbn10": "0062350889"
+          },
+          {
+            "isbn13": "9780062268358",
+            "isbn10": "006226835X"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=thenewyorktim-20",
+        "contributor": "by Amy Poehler",
+        "rank_last_week": 10
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2012/09/16/books/review/the-black-count-by-tom-reiss.html",
+        "publisher": "Crown",
+        "title": "THE BLACK COUNT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307952950.jpg",
+        "rank": 10,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9780307952950",
+        "primary_isbn10": "0307952959",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Tom Reiss",
+        "description": "A biography of the first Alexandre Dumas, a mixed-race general of the French Revolution.",
+        "isbns": [
+          {
+            "isbn13": "9780307382467",
+            "isbn10": "030738246X"
+          },
+          {
+            "isbn13": "9780307952950",
+            "isbn10": "0307952959"
+          },
+          {
+            "isbn13": "9780307382474",
+            "isbn10": "0307382478"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Black-Count-Revolution-Biography-ebook/dp/B007OLYPA4?tag=thenewyorktim-20",
+        "contributor": "by Tom Reiss",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Thomas Nelson",
+        "title": "GHOST BOY",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400205844.jpg",
+        "rank": 11,
+        "weeks_on_list": 5,
+        "primary_isbn13": "9781400205837",
+        "primary_isbn10": "1400205832",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Martin Pistorius with Megan Lloyd Davies",
+        "description": "A South African man learned how to communicate and live a full life despite a mysterious disease that left him mute and in a wheelchair; originally published in 2011.",
+        "isbns": [
+          {
+            "isbn13": "9781400205837",
+            "isbn10": "1400205832"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Ghost-Boy-Miraculous-Misdiagnosed-Trapped-ebook/dp/B00C5QA94O?tag=thenewyorktim-20",
+        "contributor": "Martin Pistorius with Megan Lloyd Davies",
+        "rank_last_week": 9
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Open Road",
+        "title": "UPSTAIRS AT THE WHITE HOUSE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781480449794.jpg",
+        "rank": 12,
+        "weeks_on_list": 6,
+        "primary_isbn13": "9781480449794",
+        "primary_isbn10": "",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "J B West with Mary Lynn Kotz",
+        "description": "Reminiscences by a former White House major-domo. First published in 1974.",
+        "isbns": [],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Upstairs-White-House-First-Ladies-ebook/dp/B00F3QYL06?tag=thenewyorktim-20",
+        "contributor": "by J. B. West with Mary Lynn Kotz",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Little, Brown",
+        "title": "LONE SURVIVOR",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316067607.jpg",
+        "rank": 13,
+        "weeks_on_list": 31,
+        "primary_isbn13": "9780316007542",
+        "primary_isbn10": "0316007544",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Marcus Luttrell with Patrick Robinson",
+        "description": "The only survivor of a Navy SEALs operation in Afghanistan describes the battle and his escape.",
+        "isbns": [
+          {
+            "isbn13": "9780316007542",
+            "isbn10": "0316007544"
+          },
+          {
+            "isbn13": "9780316044691",
+            "isbn10": "0316044695"
+          },
+          {
+            "isbn13": "9780316067607",
+            "isbn10": "0316067601"
+          },
+          {
+            "isbn13": "9780316067591",
+            "isbn10": "0316067598"
+          },
+          {
+            "isbn13": "9780316324069",
+            "isbn10": "031632406X"
+          },
+          {
+            "isbn13": "9780316324106",
+            "isbn10": "0316324108"
+          },
+          {
+            "isbn13": "9781478927082",
+            "isbn10": "1478927089"
+          },
+          {
+            "isbn13": "9781600242199",
+            "isbn10": "1600242197"
+          },
+          {
+            "isbn13": "9780606352154",
+            "isbn10": "0606352155"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601?tag=thenewyorktim-20",
+        "contributor": "by Marcus Luttrell with Patrick Robinson",
+        "rank_last_week": 12
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/01/18/books/review/alexandra-fullers-leaving-before-the-rains-come.html",
+        "publisher": "Penguin Press",
+        "title": "LEAVING BEFORE THE RAINS COME",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698145610.jpg",
+        "rank": 14,
+        "weeks_on_list": 4,
+        "primary_isbn13": "9780698145610",
+        "primary_isbn10": "",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/02/03/books/alexandra-fullers-leaving-before-the-rains-come.html",
+        "author": "Alexandra Fuller",
+        "description": "A memoir of a marriage\u2019s collapse, by the author of \u201cDon\u2019t Let\u2019s Go to the Dogs Tonight.\u201d",
+        "isbns": [
+          {
+            "isbn13": "9781594205866",
+            "isbn10": "1594205868"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Leaving-Before-Rains-Alexandra-Fuller/dp/1594205868?tag=thenewyorktim-20",
+        "contributor": "by Alexandra Fuller",
+        "rank_last_week": 15
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "HarperCollins",
+        "title": "THE KENNEDY MEN, 1901-1963",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062039880.jpg",
+        "rank": 15,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9780062039880",
+        "primary_isbn10": "0062039881",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Laurence Leamer",
+        "description": "The first volume of a multigenerational history.",
+        "isbns": [
+          {
+            "isbn13": "9780062039880",
+            "isbn10": "0062039881"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Kennedy-Men-Laurence-Leamer-ebook/dp/B003YCOP1G?tag=thenewyorktim-20",
+        "contributor": "by Laurence Leamer",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "http://www.nytimes.com/2010/03/03/books/excerpt-immortal-life-of-henrietta-lacks.html",
+        "sunday_review_link": "http://www.nytimes.com/2010/02/07/books/review/Margonelli-t.html",
+        "publisher": "Broadway",
+        "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400052189.jpg",
+        "rank": 16,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9781400052189",
+        "primary_isbn10": "1400052181",
+        "article_chapter_link": "http://www.nytimes.com/2010/02/02/health/02seco.html",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2010/02/03/books/03book.html",
+        "author": "Rebecca Skloot",
+        "description": "A woman's cancer cells were cultured without her permission in 1951.",
+        "isbns": [
+          {
+            "isbn13": "9781400052172",
+            "isbn10": "1400052173"
+          },
+          {
+            "isbn13": "9780307589385",
+            "isbn10": "0307589382"
+          },
+          {
+            "isbn13": "9781410427922",
+            "isbn10": "1410427927"
+          },
+          {
+            "isbn13": "9781400052189",
+            "isbn10": "1400052181"
+          },
+          {
+            "isbn13": "9781594134326",
+            "isbn10": "1594134324"
+          },
+          {
+            "isbn13": "9780451486318",
+            "isbn10": "0451486315"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=thenewyorktim-20",
+        "contributor": "by Rebecca Skloot",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/03/22/books/review/bill-browders-red-notice.html",
+        "publisher": "Simon & Schuster",
+        "title": "RED NOTICE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476755717.jpg",
+        "rank": 17,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9781476755717",
+        "primary_isbn10": "147675571X",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/02/02/arts/bill-browders-red-notice-about-his-russian-misadventures.html",
+        "author": "Bill Browder",
+        "description": "A successful American hedge fund manager in Russia was expelled by kleptocrats who then seized his property.",
+        "isbns": [
+          {
+            "isbn13": "9781476755717",
+            "isbn10": "147675571X"
+          },
+          {
+            "isbn13": "9781476755755",
+            "isbn10": "1476755752"
+          },
+          {
+            "isbn13": "9781476755748",
+            "isbn10": "1476755744"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Red-Notice-Finance-Murder-Justice/dp/147675571X?tag=thenewyorktim-20",
+        "contributor": "by Bill Browder",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Princeton University",
+        "title": "ALAN TURING: THE ENIGMA",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400865123.jpg",
+        "rank": 18,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9781400865123",
+        "primary_isbn10": "None",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Andrew Hodges",
+        "description": "The presiding mathematician and decoding force at Bletchley Park, the center that cracked the German Enigma code; the inspiration for the film \"The Imitation Game.\"",
+        "isbns": [
+          {
+            "isbn13": "9780691164724",
+            "isbn10": "069116472X"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation-ebook/dp/B00M032W92?tag=thenewyorktim-20",
+        "contributor": "by Andrew Hodges",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/01/25/books/review/jill-leovys-ghettoside.html",
+        "publisher": "Spiegel & Grau",
+        "title": "GHETTOSIDE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385530002.jpg",
+        "rank": 19,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780385530002",
+        "primary_isbn10": "",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/01/23/books/jill-leovys-ghettoside-a-south-los-angeles-murder-case.html",
+        "author": "Jill Leovy",
+        "description": "The investigation of a young black man\u2019s murder in 2007 raises questions about race and the criminal justice system.",
+        "isbns": [
+          {
+            "isbn13": "9780385529983",
+            "isbn10": "0385529988"
+          },
+          {
+            "isbn13": "9780449009710",
+            "isbn10": "0449009718"
+          },
+          {
+            "isbn13": "9780385529990",
+            "isbn10": "0385529996"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Ghettoside-True-Story-Murder-America/dp/0385529988?tag=thenewyorktim-20",
+        "contributor": "by Jill Leovy",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2012/02/05/books/review/three-books-explore-the-reality-behind-the-world-of-downton-abbey.html",
+        "publisher": "Broadway Books",
+        "title": "LADY ALMINA AND THE REAL DOWNTON ABBEY",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780770435639.jpg",
+        "rank": 20,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780770435639",
+        "primary_isbn10": "0770435637",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "The Countess of Carnarvon",
+        "description": "The inspiration and setting for the show on PBS.",
+        "isbns": [
+          {
+            "isbn13": "9780770435622",
+            "isbn10": "0770435629"
+          },
+          {
+            "isbn13": "9780770435639",
+            "isbn10": "0770435637"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Lady-Almina-Real-Downton-Abbey/dp/0770435629?tag=thenewyorktim-20",
+        "contributor": "by The Countess of Carnarvon",
+        "rank_last_week": 0
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "bestsellers_date": "2015-02-21"
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "status": "OK",
+  "last_modified": "2015-09-02T12:41:11-04:00",
+  "num_results": 20,
+  "results": {
+    "updated": "WEEKLY",
+    "list_name": "Combined Print and E-Book Nonfiction",
+    "previous_published_date": "2015-08-16",
+    "list_name_encoded": "combined-print-and-e-book-nonfiction",
+    "display_name": "Combined Print & E-Book Nonfiction",
+    "published_date": "2015-08-23",
+    "next_published_date": "2015-08-30",
+    "corrections": [],
+    "books": [
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Threshold Editions",
+        "title": "PLUNDER AND DECEIT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781451606409.jpg",
+        "rank": 1,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9781451606300",
+        "primary_isbn10": "1451606303",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Mark R Levin",
+        "description": "The talk-radio host urges young Americans to resist the statist masterminds who he says are burdening them with debt, inferior education and illegal immigration.",
+        "isbns": [
+          {
+            "isbn13": "9781451606300",
+            "isbn10": "1451606303"
+          },
+          {
+            "isbn13": "9781451606409",
+            "isbn10": "1451606400"
+          },
+          {
+            "isbn13": "9781442390843",
+            "isbn10": "1442390840"
+          }
+        ],
+        "dagger": 1,
+        "amazon_product_url": "http://www.amazon.com/Plunder-Deceit-Mark-R-Levin/dp/1451606303?tag=thenewyorktim-20",
+        "contributor": "by Mark R. Levin",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Spiegel & Grau",
+        "title": "BETWEEN THE WORLD AND ME",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780679645986.jpg",
+        "rank": 2,
+        "weeks_on_list": 4,
+        "primary_isbn13": "9780812993547",
+        "primary_isbn10": "0812993543",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+        "author": "Ta-Nehisi Coates",
+        "description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+        "isbns": [
+          {
+            "isbn13": "9780812993547",
+            "isbn10": "0812993543"
+          },
+          {
+            "isbn13": "9780451482211",
+            "isbn10": "0451482212"
+          },
+          {
+            "isbn13": "9781410485847",
+            "isbn10": "1410485846"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates-ebook/dp/B00SEFAIRI?tag=thenewyorktim-20",
+        "contributor": "by Ta-Nehisi Coates",
+        "rank_last_week": 1
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Penguin",
+        "title": "THE BOYS IN THE BOAT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781101622742.jpg",
+        "rank": 3,
+        "weeks_on_list": 64,
+        "primary_isbn13": "9780143125471",
+        "primary_isbn10": "0143125478",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Daniel James Brown",
+        "description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+        "isbns": [
+          {
+            "isbn13": "9780670025817",
+            "isbn10": "067002581X"
+          },
+          {
+            "isbn13": "9780143125471",
+            "isbn10": "0143125478"
+          },
+          {
+            "isbn13": "9781594137792",
+            "isbn10": "159413779X"
+          },
+          {
+            "isbn13": "9781611761696",
+            "isbn10": "1611761697"
+          },
+          {
+            "isbn13": "9781410459541",
+            "isbn10": "1410459543"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=thenewyorktim-20",
+        "contributor": "by Daniel James Brown",
+        "rank_last_week": 2
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/05/10/books/review/the-wright-brothers-by-david-mccullough.html",
+        "publisher": "Simon & Schuster",
+        "title": "THE WRIGHT BROTHERS",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476728742.jpg",
+        "rank": 4,
+        "weeks_on_list": 14,
+        "primary_isbn13": "9781476728742",
+        "primary_isbn10": "1476728747",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2015/05/04/books/review-the-wright-brothers-by-david-mccullough.html",
+        "author": "David McCullough",
+        "description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+        "isbns": [
+          {
+            "isbn13": "9781476728742",
+            "isbn10": "1476728747"
+          },
+          {
+            "isbn13": "9781476728766",
+            "isbn10": "1476728763"
+          },
+          {
+            "isbn13": "9781410478757",
+            "isbn10": "1410478750"
+          },
+          {
+            "isbn13": "9781442376083",
+            "isbn10": "1442376082"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=thenewyorktim-20",
+        "contributor": "by David McCullough",
+        "rank_last_week": 3
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Penguin Press",
+        "title": "MODERN ROMANCE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780698179967.jpg",
+        "rank": 5,
+        "weeks_on_list": 8,
+        "primary_isbn13": "9781594206276",
+        "primary_isbn10": "1594206279",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Aziz Ansari with Eric Klinenberg",
+        "description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+        "isbns": [
+          {
+            "isbn13": "9781594206276",
+            "isbn10": "1594206279"
+          },
+          {
+            "isbn13": "9781611764253",
+            "isbn10": "1611764254"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG?tag=thenewyorktim-20",
+        "contributor": "by Aziz Ansari with Eric Klinenberg",
+        "rank_last_week": 4
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Regan Arts",
+        "title": "MY FIGHT / YOUR FIGHT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781941393857.jpg",
+        "rank": 6,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9781941393260",
+        "primary_isbn10": "1941393268",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Ronda Rousey with Maria Burns Ortiz",
+        "description": "The U.F.C. women\u2019s bantamweight champion and Olympic judo medalist describes her struggles to succeed.",
+        "isbns": [
+          {
+            "isbn13": "9781941393857",
+            "isbn10": "1941393853"
+          },
+          {
+            "isbn13": "9781941393260",
+            "isbn10": "1941393268"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/My-Fight-Your-Ronda-Rousey-ebook/dp/B00T0GIATI?tag=thenewyorktim-20",
+        "contributor": "by Ronda Rousey with Maria Burns Ortiz",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2015/03/08/books/review/erik-larsons-dead-wake-about-the-lusitania.html",
+        "publisher": "Crown",
+        "title": "DEAD WAKE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307408860.jpg",
+        "rank": 7,
+        "weeks_on_list": 22,
+        "primary_isbn13": "9780307408860",
+        "primary_isbn10": "0307408868",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Erik Larson",
+        "description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+        "isbns": [
+          {
+            "isbn13": "9780307408860",
+            "isbn10": "0307408868"
+          },
+          {
+            "isbn13": "9780553446753",
+            "isbn10": "0553446754"
+          },
+          {
+            "isbn13": "9780553551624",
+            "isbn10": "0553551620"
+          },
+          {
+            "isbn13": "9780804194617",
+            "isbn10": "0804194610"
+          },
+          {
+            "isbn13": "9780307408877",
+            "isbn10": "0307408876"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Dead-Wake-Last-Crossing-Lusitania/dp/0307408868?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "rank_last_week": 6
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Dey Street",
+        "title": "DOWN THE RABBIT HOLE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780062372123.jpg",
+        "rank": 8,
+        "weeks_on_list": 7,
+        "primary_isbn13": "9780062372109",
+        "primary_isbn10": "0062372106",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Holly Madison",
+        "description": "Life inside the Playboy Mansion, by a former bunny and girlfriend of Hugh Hefner.",
+        "isbns": [
+          {
+            "isbn13": "9780062372109",
+            "isbn10": "0062372106"
+          },
+          {
+            "isbn13": "9780062372123",
+            "isbn10": "0062372122"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Down-Rabbit-Hole-Adventures-Cautionary-ebook/dp/B00N81I5SC?tag=thenewyorktim-20",
+        "contributor": "by Holly Madison",
+        "rank_last_week": 5
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Lyons Press",
+        "title": "KENNEDY WIVES",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781493016716.jpg",
+        "rank": 9,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9781493016716",
+        "primary_isbn10": "None",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Amber Hunt and David Batcher",
+        "description": "A look at the women who married into the Kennedy family.",
+        "isbns": [],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Kennedy-Wives-Triumph-Tragedy-Americas-ebook/dp/B00QK3BMIA?tag=thenewyorktim-20",
+        "contributor": "by Amber Hunt and David Batcher",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Little, Brown",
+        "title": "I AM MALALA",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316322409.jpg",
+        "rank": 10,
+        "weeks_on_list": 25,
+        "primary_isbn13": "9780316322423",
+        "primary_isbn10": "0316322423",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Malala Yousafzai with Christina Lamb",
+        "description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+        "isbns": [
+          {
+            "isbn13": "9780316322409",
+            "isbn10": "0316322407"
+          },
+          {
+            "isbn13": "9781478979784",
+            "isbn10": "147897978X"
+          },
+          {
+            "isbn13": "9780316286633",
+            "isbn10": "031628663X"
+          },
+          {
+            "isbn13": "9780316322423",
+            "isbn10": "0316322423"
+          },
+          {
+            "isbn13": "9781478902331",
+            "isbn10": "1478902337"
+          },
+          {
+            "isbn13": "9780297870937",
+            "isbn10": "0297870939"
+          },
+          {
+            "isbn13": "9781478983705",
+            "isbn10": "1478983701"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=thenewyorktim-20",
+        "contributor": "by Malala Yousafzai with Christina Lamb",
+        "rank_last_week": 7
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+        "publisher": "Metropolitan/Holt",
+        "title": "BEING MORTAL",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805095159.jpg",
+        "rank": 11,
+        "weeks_on_list": 42,
+        "primary_isbn13": "9780805095159",
+        "primary_isbn10": "0805095152",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+        "author": "Atul Gawande",
+        "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+        "isbns": [
+          {
+            "isbn13": "9780805095159",
+            "isbn10": "0805095152"
+          },
+          {
+            "isbn13": "9781427244239",
+            "isbn10": "1427244235"
+          },
+          {
+            "isbn13": "9781410478122",
+            "isbn10": "1410478122"
+          },
+          {
+            "isbn13": "9781514732991",
+            "isbn10": "1514732998"
+          },
+          {
+            "isbn13": "9781250081247",
+            "isbn10": "1250081246"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20",
+        "contributor": "by Atul Gawande",
+        "rank_last_week": 8
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "http://www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
+        "sunday_review_link": "http://www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
+        "publisher": "Little, Brown",
+        "title": "OUTLIERS",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316017930.jpg",
+        "rank": 12,
+        "weeks_on_list": 50,
+        "primary_isbn13": "9780316017930",
+        "primary_isbn10": "0316017930",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2008/11/18/books/18kaku.html",
+        "author": "Malcolm Gladwell",
+        "description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+        "isbns": [
+          {
+            "isbn13": "9780316017923",
+            "isbn10": "0316017922"
+          },
+          {
+            "isbn13": "9780316040341",
+            "isbn10": "0316040347"
+          },
+          {
+            "isbn13": "9780316017930",
+            "isbn10": "0316017930"
+          },
+          {
+            "isbn13": "9781600243912",
+            "isbn10": "1600243916"
+          },
+          {
+            "isbn13": "9780316024976",
+            "isbn10": "031602497X"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20",
+        "contributor": "by Malcolm Gladwell",
+        "rank_last_week": 14
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2012/04/01/books/review/wild-a-hiking-memoir-by-cheryl-strayed.html",
+        "publisher": "Knopf",
+        "title": "WILD",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307476074.jpg",
+        "rank": 13,
+        "weeks_on_list": 119,
+        "primary_isbn13": "9780307476074",
+        "primary_isbn10": "0307476073",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2012/03/28/books/wild-by-cheryl-strayed-a-walkabout-of-reinvention.html",
+        "author": "Cheryl Strayed",
+        "description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+        "isbns": [
+          {
+            "isbn13": "9780307592736",
+            "isbn10": "0307592731"
+          },
+          {
+            "isbn13": "9780307957658",
+            "isbn10": "0307957659"
+          },
+          {
+            "isbn13": "9780307476074",
+            "isbn10": "0307476073"
+          },
+          {
+            "isbn13": "9781594136740",
+            "isbn10": "1594136742"
+          },
+          {
+            "isbn13": "9780307970299",
+            "isbn10": "0307970299"
+          },
+          {
+            "isbn13": "9781101873441",
+            "isbn10": "1101873442"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=thenewyorktim-20",
+        "contributor": "by Cheryl Strayed",
+        "rank_last_week": 15
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2010/11/21/books/review/Margolick-t.html",
+        "publisher": "Random House",
+        "title": "UNBROKEN",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781400064168.jpg",
+        "rank": 14,
+        "weeks_on_list": 210,
+        "primary_isbn13": "9780812974492",
+        "primary_isbn10": "0812974492",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2010/11/15/books/15book.html",
+        "author": "Laura Hillenbrand",
+        "description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; a 2014 movie.",
+        "isbns": [
+          {
+            "isbn13": "9781400064168",
+            "isbn10": "1400064163"
+          },
+          {
+            "isbn13": "9780679603757",
+            "isbn10": "0679603751"
+          },
+          {
+            "isbn13": "9780375435010",
+            "isbn10": "0375435018"
+          },
+          {
+            "isbn13": "9780739319697",
+            "isbn10": "0739319698"
+          },
+          {
+            "isbn13": "9780007378036",
+            "isbn10": "0007378033"
+          },
+          {
+            "isbn13": "9780812974492",
+            "isbn10": "0812974492"
+          },
+          {
+            "isbn13": "9780606355988",
+            "isbn10": "0606355987"
+          },
+          {
+            "isbn13": "9780812987119",
+            "isbn10": "081298711X"
+          },
+          {
+            "isbn13": "9780553397116",
+            "isbn10": "0553397117"
+          },
+          {
+            "isbn13": "9781101912621",
+            "isbn10": "1101912626"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163?tag=thenewyorktim-20",
+        "contributor": "by Laura Hillenbrand",
+        "rank_last_week": 12
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2014/06/15/books/review/under-magnolia-by-frances-mayes.html",
+        "publisher": "Broadway",
+        "title": "UNDER MAGNOLIA",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307885937.jpg",
+        "rank": 15,
+        "weeks_on_list": 1,
+        "primary_isbn13": "9780307885937",
+        "primary_isbn10": "0307885933",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Frances Mayes",
+        "description": "A memoir by the author of \"Under the Tuscan Sun\" looks at her claustrophobic childhood in the Deep South.",
+        "isbns": [
+          {
+            "isbn13": "9780307885937",
+            "isbn10": "0307885933"
+          },
+          {
+            "isbn13": "9780307885920",
+            "isbn10": "0307885925"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Under-Magnolia-A-Southern-Memoir/dp/0307885925?tag=thenewyorktim-20",
+        "contributor": "by Frances Mayes",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2005/03/13/books/review/013COVERPROSE.html",
+        "publisher": "Scribner",
+        "title": "THE GLASS CASTLE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780743247542.jpg",
+        "rank": 16,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780743247542",
+        "primary_isbn10": "074324754X",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Jeannette Walls",
+        "description": "The author recalls a bizarre childhood during which she and her siblings were constantly moved from one bleak place to another. Originally published in 2005.",
+        "isbns": [
+          {
+            "isbn13": "9780743247542",
+            "isbn10": "074324754X"
+          },
+          {
+            "isbn13": "9781416550600",
+            "isbn10": "1416550607"
+          },
+          {
+            "isbn13": "9781439156964",
+            "isbn10": "1439156964"
+          },
+          {
+            "isbn13": "9781416544661",
+            "isbn10": "1416544666"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
+        "contributor": "by Jeannette Walls",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "http://www.nytimes.com/2007/02/25/books/review/Boyd.t.html",
+        "publisher": "Farrar, Straus & Giroux",
+        "title": "A LONG WAY GONE",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780374531263.jpg",
+        "rank": 17,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780374531263",
+        "primary_isbn10": "0374531269",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Ishmael Beah",
+        "description": "A former child soldier's killing spree and return to humanity.",
+        "isbns": [
+          {
+            "isbn13": "9780374531263",
+            "isbn10": "0374531269"
+          },
+          {
+            "isbn13": "9780374706524",
+            "isbn10": "0374706522"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269?tag=thenewyorktim-20",
+        "contributor": "by Ishmael Beah",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Doubleday",
+        "title": "THE BILLION DOLLAR SPY",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385537612.jpg",
+        "rank": 18,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780385537612",
+        "primary_isbn10": "0385537611",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "David E Hoffman",
+        "description": "A Pulitzer Prize-winning journalist's biography of Adolf Tolkachev, who spied for the United States inside the Soviet Union.",
+        "isbns": [
+          {
+            "isbn13": "9780385537605",
+            "isbn10": "0385537603"
+          },
+          {
+            "isbn13": "9780385537612",
+            "isbn10": "0385537611"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Billion-Dollar-Spy-Espionage/dp/0385537603?tag=thenewyorktim-20",
+        "contributor": "by David E. Hoffman",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "publisher": "Grand Central",
+        "title": "BLACKOUT",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455554577.jpg",
+        "rank": 19,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9781455554591",
+        "primary_isbn10": "1455554596",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "",
+        "author": "Sarah Hepola",
+        "description": "A memoir of drinking and recovery.",
+        "isbns": [
+          {
+            "isbn13": "9781455554577",
+            "isbn10": "145555457X"
+          },
+          {
+            "isbn13": "9781455554591",
+            "isbn10": "1455554596"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/Blackout-Remembering-Things-Drank-Forget-ebook/dp/B00O7X61DQ?tag=thenewyorktim-20",
+        "contributor": "by Sarah Hepola",
+        "rank_last_week": 0
+      },
+      {
+        "age_group": "",
+        "first_chapter_link": "http://www.nytimes.com/2003/03/09/books/chapters/0309-1st-larson.html",
+        "sunday_review_link": "http://www.nytimes.com/2003/03/09/books/a-real-life-bates-motel.html",
+        "publisher": "Vintage",
+        "title": "THE DEVIL IN THE WHITE CITY",
+        "contributor_note": "",
+        "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780375725609.jpg",
+        "rank": 20,
+        "weeks_on_list": 0,
+        "primary_isbn13": "9780375725609",
+        "primary_isbn10": "0375725601",
+        "article_chapter_link": "",
+        "asterisk": 0,
+        "price": 0,
+        "book_review_link": "http://www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html",
+        "author": "Erik Larson",
+        "description": "The tale of an architect (Daniel Hudson Burnham) and a serial killer (H. H. Holmes), who were linked by the Chicago World's Fair of 1893.",
+        "isbns": [
+          {
+            "isbn13": "9780375725609",
+            "isbn10": "0375725601"
+          },
+          {
+            "isbn13": "9781400076314",
+            "isbn10": "1400076315"
+          },
+          {
+            "isbn13": "9780609608449",
+            "isbn10": "0609608444"
+          },
+          {
+            "isbn13": "9780739323595",
+            "isbn10": "0739323598"
+          },
+          {
+            "isbn13": "9781410455765",
+            "isbn10": "1410455769"
+          }
+        ],
+        "dagger": 0,
+        "amazon_product_url": "http://www.amazon.com/The-Devil-White-City-Madness/dp/0375725601?tag=thenewyorktim-20",
+        "contributor": "by Erik Larson",
+        "rank_last_week": 0
+      }
+    ],
+    "normal_list_ends_at": 15,
+    "bestsellers_date": "2015-08-08"
+  }
+}
