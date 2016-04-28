@@ -2,37 +2,55 @@
 # contains JSON files
 
 from glob import glob
+from os import makedirs
 from os.path import join
 from time import sleep
-from book_foo import fetch_book_ids
+from book_foo import fetch_book_ids as apifetchbookids
 import json
+import sys
 MAX_BATCH_SIZE = 100
 
 INPUT_DATADIR = join('data', 'nytimes', 'fetched', 'bestseller-lists')
+OUTPUT_DIR = join('data', 'goodreads', 'fetched')
 OUTPUT_FILENAME = join(OUTPUT_DIR, 'isbn-to-goodreads-ids.csv')
 
-def fetch_and_save_book_ids(apikey, input_dir, output_filename):
-    input_filenames = glob(join(input_dir, '**', '*.json'))
 
+def gather_unique_isbns(input_dir=INPUT_DATADIR):
+    input_filenames = glob(join(input_dir, '**', '*.json'))
     isbns = []
     for fname in input_filenames:
         with open(fname, 'r') as rf:
             booksdata = json.load(rf)['results']['books']
         isbns.extend([b['primary_isbn13'] for b in booksdata])
 
-    print('Total isbn numbers', len(isbns))
     uniq_isbns = list(set(isbns))
-    print('Unique isbn numbers', len(uniq_isbns))
-
-    batch_nums = range(0, len(uniq_isbns), MAX_BATCH_SIZE)
-    isbnbatches = [uniq_isbns[i:i+MAX_BATCH_SIZE] for i in batch_nums]
+    return uniq_isbns
 
 
+
+def batch_fetch_book_ids(apikey, isbn_numbers):
     isbn_to_goodread_ids = []
-    for batchnum in range(0, len(uniq_isbns), MAX_BATCH_SIZE):
+    batch_nums = range(0, len(isbns), MAX_BATCH_SIZE)
+    isbnbatches = [isbns[i:i+MAX_BATCH_SIZE] for i in batch_nums]
+    for batchnum in range(0, len(isbns), MAX_BATCH_SIZE):
         # create a subslice of the list
-        batch = uniq_isbns[batchnum:batchnum+MAX_BATCH_SIZE]
-        print('Batch number:', batchnum, batch[0], '...to...', batch[-1])
-        resp = fetch_book_ids()
+        batch = isbns[batchnum:batchnum+MAX_BATCH_SIZE]
+        resp = apifetchbookids(apikey, batch)
+        yield (batch, resp)
 
+if __name__ == '__main__':
+    apikey = sys.argv[1]
+    makedirs(OUTPUT_DIR, exist_ok=True)
+    isbns = gather_unique_isbns(INPUT_DATADIR)
+    print(len(isbns), 'unique isbn numbers')
 
+    wf = open(OUTPUT_FILENAME, 'w')
+    for i, (batch, resp) in enumerate(batch_fetch_book_ids(apikey, isbns)):
+        # print(resp.url)
+        gr_ids = resp.text.split(',')
+        print('Batch number:', i, 'results:', len(gr_ids))
+        for line in [','.join(z) for z in zip(batch, gr_ids)]:
+           wf.write(line + '\n')
+        sleep(2)
+    print("Finished writing to", OUTPUT_FILENAME)
+    wf.close()
